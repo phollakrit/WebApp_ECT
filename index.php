@@ -51,7 +51,7 @@
 <body>
     <div class="container">
     <h1 style="text-align: center;"> Webboard KakKak</h1>
-    <?php include "nav.php" ?>
+    <?php include "nav.php"; ?>
     <br>
     <div class="d-flex justify-content-between">
         <div>
